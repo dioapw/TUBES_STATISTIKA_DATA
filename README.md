@@ -6,3 +6,5 @@ Manager suatu bank ingin mendapat gambaran tentang karakteristik pemegang kartu 
 Lakukan eksplorasi menggunakan metode yang sudah dipelajari untuk mendapatkan informasi yang akan anda presentasikan kepada manager bank. 
 
 Dataset = BankChurners.csv
+
+Telkom University - S1 Informatika
